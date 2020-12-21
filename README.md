@@ -158,6 +158,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Kotlin Glossary](https://kotlin-glossary-ebook.caster.io/)
 
+-[Kotlin in a Nutshell](https://mailchi.mp/7078ddeeed02/kotlin-ebook-download)
+
 
 ## Video Courses 
 
